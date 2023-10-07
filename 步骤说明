@@ -1,0 +1,4 @@
+1.安装node,npm
+2.安装hardhat,安装命令：npm install --save-dev hardhat
+3.初始化项目：npx hardhat
+
